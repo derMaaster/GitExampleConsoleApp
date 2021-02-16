@@ -1,0 +1,13 @@
+C:\Users\dermeister\source\repos\Console\GitExampleConsoleApp\GitExampleConsoleApp\bin\Debug\netcoreapp3.1\GitExampleConsoleApp.exe
+C:\Users\dermeister\source\repos\Console\GitExampleConsoleApp\GitExampleConsoleApp\bin\Debug\netcoreapp3.1\GitExampleConsoleApp.deps.json
+C:\Users\dermeister\source\repos\Console\GitExampleConsoleApp\GitExampleConsoleApp\bin\Debug\netcoreapp3.1\GitExampleConsoleApp.runtimeconfig.json
+C:\Users\dermeister\source\repos\Console\GitExampleConsoleApp\GitExampleConsoleApp\bin\Debug\netcoreapp3.1\GitExampleConsoleApp.runtimeconfig.dev.json
+C:\Users\dermeister\source\repos\Console\GitExampleConsoleApp\GitExampleConsoleApp\bin\Debug\netcoreapp3.1\GitExampleConsoleApp.dll
+C:\Users\dermeister\source\repos\Console\GitExampleConsoleApp\GitExampleConsoleApp\bin\Debug\netcoreapp3.1\GitExampleConsoleApp.pdb
+C:\Users\dermeister\source\repos\Console\GitExampleConsoleApp\GitExampleConsoleApp\obj\Debug\netcoreapp3.1\GitExampleConsoleApp.csprojAssemblyReference.cache
+C:\Users\dermeister\source\repos\Console\GitExampleConsoleApp\GitExampleConsoleApp\obj\Debug\netcoreapp3.1\GitExampleConsoleApp.AssemblyInfoInputs.cache
+C:\Users\dermeister\source\repos\Console\GitExampleConsoleApp\GitExampleConsoleApp\obj\Debug\netcoreapp3.1\GitExampleConsoleApp.AssemblyInfo.cs
+C:\Users\dermeister\source\repos\Console\GitExampleConsoleApp\GitExampleConsoleApp\obj\Debug\netcoreapp3.1\GitExampleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\dermeister\source\repos\Console\GitExampleConsoleApp\GitExampleConsoleApp\obj\Debug\netcoreapp3.1\GitExampleConsoleApp.dll
+C:\Users\dermeister\source\repos\Console\GitExampleConsoleApp\GitExampleConsoleApp\obj\Debug\netcoreapp3.1\GitExampleConsoleApp.pdb
+C:\Users\dermeister\source\repos\Console\GitExampleConsoleApp\GitExampleConsoleApp\obj\Debug\netcoreapp3.1\GitExampleConsoleApp.genruntimeconfig.cache
