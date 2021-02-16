@@ -28,7 +28,7 @@ namespace GitExampleConsoleApp
         }
 
 
-        public async Task SetTrue()
+        public async Task Run()
         {
             Console.WriteLine(ID.ToString() + " running");
 

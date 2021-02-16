@@ -25,7 +25,7 @@ namespace GitExampleConsoleApp
 
         public void Run(int row)
         {
-            Task.Run(()=> ClassesOfA[row].SetTrue());
+            Task.Run(()=> ClassesOfA[row].Run());
         }
 
 
